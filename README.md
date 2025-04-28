@@ -6,5 +6,6 @@ Script to clean messy CSV files by:
 - Normalizing column names.
 
 ## Usage
-bash
+```bash
 python cleaner.py
+```
